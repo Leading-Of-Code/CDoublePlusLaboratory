@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArraySort.cpp" />
+    <ClCompile Include="Calculate.cpp" />
+    <ClCompile Include="PontSmokeSort.cpp" />
     <ClCompile Include="Switch.cpp" />
+    <ClCompile Include="函数.cpp" />
+    <ClCompile Include="指针.cpp" />
+    <ClCompile Include="结构体.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Calculate.h" />
+    <ClInclude Include="PontSmokeSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
