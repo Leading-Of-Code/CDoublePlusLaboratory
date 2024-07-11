@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="继承.cpp">
+    <ClCompile Include="二进制文件.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

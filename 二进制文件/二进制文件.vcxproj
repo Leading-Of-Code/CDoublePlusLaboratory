@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c4a121c6-1161-4b1c-a286-183a01e4a16d}</ProjectGuid>
-    <RootNamespace>多态</RootNamespace>
+    <ProjectGuid>{13172871-43c9-4fb7-b6f8-571c74e7ea0a}</ProjectGuid>
+    <RootNamespace>二进制文件</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,10 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="多态.cpp" />
-    <ClCompile Include="组装电脑.cpp" />
-    <ClCompile Include="虚析构和纯虚析构.cpp" />
-    <ClCompile Include="计算器类.cpp" />
+    <ClCompile Include="二进制文件.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="继承.cpp">
+    <ClCompile Include="函数模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
